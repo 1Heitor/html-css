@@ -8,6 +8,7 @@ body{
     background-size: cover;
     height:98vh;
     width: 98vw;
+    position: fixed;
 
 }
 main{
